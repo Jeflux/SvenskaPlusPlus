@@ -2,7 +2,7 @@
 #define SVENSKA_H
 
 #define klass class
-#define allmän public
+#define allmÃ¤n public
 #define privat private
 #define skyddad protected
 #define virtuell virtual
@@ -12,19 +12,19 @@
 #define heltal int
 #define inget void
 
-#define för for
+#define fÃ¶r for
 #define medans while
-#define gör do
+#define gÃ¶r do
 
 #define radera delete
-#define använder using
+#define anvÃ¤nder using
 
 #define nollpekare nullptr
-#define återvänd return
-#define dethär this
-#define automatisk auto
+#define Ã¥tervÃ¤nd return
+#define dethÃ¤r this
+#define automagiskt auto
 
-#define använder using
+#define anvÃ¤nder using
 #define namnrymden namespace
 
 #endif
